@@ -139,26 +139,12 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LasithaAmarasinghe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="LasithaAmarasinghe" />
  </p>
 </div>
-
-
-<br/>
-
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" />
-</p>
-
-<br/>
-
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LasithaAmarasinghe&theme=chartreuse-dark&border_radius=30.0" alt="LasithaAmarasinghe" />
-</p>
-
-<br/>
 -->
-
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasithaAmarasinghe&theme=chartreuse-dark&border_radius=30.0" alt="LasithaAmarasinghe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" style="width: 500px; height: 250px; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasithaAmarasinghe&theme=chartreuse-dark&border_radius=30.0" alt="LasithaAmarasinghe" style="width: 500px; height: 250px; margin-left: 10px;" />
 </p>
+
+
