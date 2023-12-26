@@ -1,18 +1,5 @@
-
-
 <!--
-**LasithaAmarasinghe/LasithaAmarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -35,19 +22,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I have got a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.🚿🎶**
 
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LasithaAmarasinghe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LasithaAmarasinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -156,3 +132,32 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LasithaAmarasinghe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LasithaAmarasinghe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+-->
+###
+<!--
+<div>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LasithaAmarasinghe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="LasithaAmarasinghe" />
+ </p>
+</div>
+-->
+
+<br/>
+
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" />
+</p>
+
+<br/>
+
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LasithaAmarasinghe&theme=chartreuse-dark&border_radius=30.0" alt="LasithaAmarasinghe" />
+</p>
+
+<br/>
