@@ -152,8 +152,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" style="width: 500px; height: 240px; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasithaAmarasinghe&theme=chartreuse-dark&border" alt="LasithaAmarasinghe" style="width: 500px; height: 200px; margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" style="width: 500px; height: 250px; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasithaAmarasinghe&theme=chartreuse-dark&border" alt="LasithaAmarasinghe" style="width: 500px; height: 260px; margin-left: 10px;" />
 </p>
 
 
