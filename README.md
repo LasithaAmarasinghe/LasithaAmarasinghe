@@ -115,8 +115,8 @@
 <h3 align="left">⚙️🧑‍💻My Projects:</h3>
 
 💠Smarty Plug - </br>
-💠Wall Following Robot - https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot </br>
-💠Agni Robot - https://github.com/LasithaAmarasinghe/Agni-Robot</br>
+💠Wall Following Robot - <b>https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot </b></br>
+💠Agni Robot - <b>https://github.com/LasithaAmarasinghe/Agni-Robot</b></br>
 
 
 ###
