@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **ML, DS, Robotics Projects**.
 
-- ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.🚿🎶**
+- ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.😁🚿🎶**
 
 ###
 
