@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **ML, DS, Robotics Projects**.
 
-- ⚡ Fun fact: **I have got a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.🚿🎶**
+- ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.🚿🎶**
 
 ###
 
@@ -111,6 +111,15 @@
 </div>
 
 ###
+
+<h3 align="left">⚙️🧑‍💻My Projects:</h3>
+
+💠Smarty Plug - </br>
+💠Wall Following Robot - https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot </br>
+💠Agni Robot - https://github.com/LasithaAmarasinghe/Agni-Robot</br>
+
+
+###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:amarasinghelra@gmail.com" target="_blank">
@@ -132,7 +141,7 @@
 </div>
 
 
-
+###
 <!--
 <div>
 <p>
@@ -140,7 +149,7 @@
  </p>
 </div>
 -->
-
+###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" style="width: 500px; height: 250px; margin-right: 10px;" />
