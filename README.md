@@ -158,6 +158,6 @@
 -->
 ###
 
-![lasithaamarasinghe's Stats](https://github-readme-stats.vercel.app/api?username=lasithaamarasinghe&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![lasithaamarasinghe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lasithaamarasinghe&theme=chartreuse-dark&hide_border=true)
+![lasithaamarasinghe's Stats](https://github-readme-stats.vercel.app/api?username=lasithaamarasinghe&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true_align="center") 
+![lasithaamarasinghe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lasithaamarasinghe&theme=chartreuse-dark&hide_border=true_align="center")
 
