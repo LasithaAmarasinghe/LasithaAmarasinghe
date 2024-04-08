@@ -18,7 +18,7 @@
 
  🌱 I’m currently learning **Machine Learning & Data Science**.</br>
 
- 👯 I’m looking to collaborate on **ML, DS, Robotics Projects**.</br>
+ 👯 I’m looking to collaborate on **ML, DS, SE Projects**.</br>
 
  ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.😁🚿🎶**</br>
 
