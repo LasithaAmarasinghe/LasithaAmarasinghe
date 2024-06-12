@@ -131,6 +131,7 @@
 ### 💠Robotics
 
 1. **Agni Robot**
+
    - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
    - Repository: **[Agni Robot](https://github.com/LasithaAmarasinghe/Agni-Robot)**
 
@@ -156,7 +157,7 @@
    - Description: This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
    - Repository: **[Dog-Classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
      
-## Connect with Me
+## Connect with Me 🤝
 ###
 
 <div align="left">
@@ -174,8 +175,8 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
+ <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  /> -->
+ <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  /> -->
 </div>
 
 ## GitHub Stats 📊
