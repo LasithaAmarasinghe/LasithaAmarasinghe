@@ -117,15 +117,15 @@
 ### 💠Electronics
 
 1. **Smarty Plug**
-   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Description: This is an IoT-integrated smart extension cord powered by Atmega328 & ESP8266.
    - Repository: **[Smarty Plug](https://github.com/LasithaAmarasinghe/Smarty-Plug)**
 
 2. **3D Mapper**
-   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Description: This is a 3D plotting device made for short-range object detection powered by Atemega 2560.
    - Repository: **[3D Mapper](https://github.com/LasithaAmarasinghe/3D-Mapper)**
 
 3. **Analog Wall Following Robot**
-   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Description: This is a wall-following robot made using only analog electronics.
    - Repository: **[Analog Wall Following Robot](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)**  
    
 ### 💠Robotics
