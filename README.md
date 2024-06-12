@@ -14,9 +14,8 @@
 
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
- 🔭 I'm working on **Machine Learning** projects. </br> 
 
- 🌱 I’m currently learning **Machine Learning, Deep Learning & Data Science**.</br>
+ 🔭 I’m currently learning **Machine Learning, Deep Learning & Data Science**.</br>
 
  👯 I’m looking to collaborate on **Machine Learning & Software Engineering Projects**.</br>
 
