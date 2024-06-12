@@ -110,32 +110,49 @@
 </div>
 
 ###
-<h3 align="left">⚙️🧑‍💻My Projects:</h3>
 
-💠Smarty Plug - <b>https://github.com/LasithaAmarasinghe/Smarty-Plug</b></br>
-💠Agni Robot - <b>https://github.com/LasithaAmarasinghe/Agni-Robot</b></br>
-💠Analog Wall Following Robot - <b>https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot </b></br>
-💠3D Mapper - <b>https://github.com/LasithaAmarasinghe/3D-Mapper </b></br>
 
- ### Machine Learning
+## ⚙️🧑‍💻 Projects
+
+### 💠Electronics
+
+1. **Smarty Plug**
+   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Repository: **[Smarty Plug](https://github.com/LasithaAmarasinghe/Smarty-Plug)**
+
+2. **3D Mapper**
+   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Repository: **[3D Mapper](https://github.com/LasithaAmarasinghe/3D-Mapper)**
+
+3. **Analog Wall Following Robot**
+   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Repository: **[Analog Wall Following Robot](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)**  
+   
+### 💠Robotics
+
+1. **Agni Robot**
+   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Repository: **[Agni Robot](https://github.com/LasithaAmarasinghe/Agni-Robot)**
+
+### 💠Machine Learning
  
-💠 **Real-Time-Speech-Recognition**
+1. **Real-Time-Speech-Recognition**
    - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
    - Repository: **[Real-Time-Speech-Recognition](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)**
      
-💠 **Movie-Recommender-System**
+2. **Movie-Recommender-System**
    - Description: This ML model recommends movies that may align with the user's preferences based on TF-IDF matrix.
    - Repository: **[Movie-Recommender-System](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
      
-💠 **Olympic-Medal-Count-Prediction**
+3. **Olympic-Medal-Count-Prediction**
    - Description: This ML model predicts the medal count for various countries in the Olympic Games using Linear Regression.
    - Repository: **[Olympic-Medal-Count-Prediction](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)**
      
-💠 **Stock-Market-Price-Prediction**
+4. **Stock-Market-Price-Prediction**
    - Description: This ML model predicts the price of the S&P500 Stock Market Index using RandomForestClassifier. 
    - Repository: **[Stock-Market-Price-Prediction](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)**
      
-💠 **Dog-Classification**
+5. **Dog-Classification**
    - Description: This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
    - Repository: **[Dog-Classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
      
