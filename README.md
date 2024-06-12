@@ -156,9 +156,9 @@
    - Description: This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
    - Repository: **[Dog-Classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
      
-
+## Connect with Me
 ###
-<h3 align="left">Connect with me:</h3>
+
 <div align="left">
   <a href="mailto:amarasinghelra@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
@@ -178,7 +178,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  />
 </div>
 
-
+## Github stats 📊
 ###
 <!--
 <div>
