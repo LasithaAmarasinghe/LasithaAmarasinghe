@@ -117,6 +117,29 @@
 💠Analog Wall Following Robot - <b>https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot </b></br>
 💠3D Mapper - <b>https://github.com/LasithaAmarasinghe/3D-Mapper </b></br>
 
+ ### Machine Learning
+ 
+💠 **Real-Time-Speech-Recognition**
+   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - Repository: **[Real-Time-Speech-Recognition](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)**
+     
+💠 **Movie-Recommender-System**
+   - Description: This ML model recommends movies that may align with the user's preferences based on TF-IDF matrix.
+   - Repository: **[Movie-Recommender-System](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
+     
+💠 **Olympic-Medal-Count-Prediction**
+   - Description: This ML model predicts the medal count for various countries in the Olympic Games using Linear Regression.
+   - Repository: **[Olympic-Medal-Count-Prediction](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)**
+     
+💠 **Stock-Market-Price-Prediction**
+   - Description: This ML model predicts the price of the S&P500 Stock Market Index using RandomForestClassifier. 
+   - Repository: **[Stock-Market-Price-Prediction](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)**
+     
+💠 **Dog-Classification**
+   - Description: This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
+   - Repository: **[Dog-Classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
+     
+
 ###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
