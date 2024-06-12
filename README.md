@@ -23,7 +23,8 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools💻🛠️
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -112,9 +113,9 @@
 ###
 
 
-## ⚙️🧑‍💻 Projects
+##  Projects⚙️🧑‍💻
 
-### 💠Electronics
+### 💠Electronics📱
 
 1. **Smarty Plug**
    - Description: This is an IoT-integrated smart extension cord powered by Atmega328 & ESP8266.
@@ -128,14 +129,14 @@
    - Description: This is a wall-following robot made using only analog electronics.
    - Repository: **[Analog Wall Following Robot](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)**  
    
-### 💠Robotics
+### 💠Robotics🤖
 
 1. **Agni Robot**
 
    - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
    - Repository: **[Agni Robot](https://github.com/LasithaAmarasinghe/Agni-Robot)**
 
-### 💠Machine Learning
+### 💠Machine Learning🧠🧑‍💻
  
 1. **Real-Time-Speech-Recognition**
    - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
