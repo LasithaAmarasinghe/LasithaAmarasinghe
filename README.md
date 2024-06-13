@@ -128,32 +128,26 @@
    
 ### 💠Robotics🤖
 
-1. **Agni Robot**
+1. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)**
 
-   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
-   - Repository: **[Agni Robot](https://github.com/LasithaAmarasinghe/Agni-Robot)**
+   - This is a system that records live speech using the microphone and then transcribes using speech recognition.
 
 ### 💠Machine Learning🧠🧑‍💻
  
-1. **Real-Time-Speech-Recognition**
-   - Description: This is a system that records live speech using the microphone and then transcribes using speech recognition.
-   - Repository: **[Real-Time-Speech-Recognition](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)**
+1. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)**
+   - This is a system that records live speech using the microphone and then transcribes using speech recognition.
      
-2. **Movie-Recommender-System**
-   - Description: This ML model recommends movies that may align with the user's preferences based on TF-IDF matrix.
-   - Repository: **[Movie-Recommender-System](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
+2. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
+   - This ML model recommends movies that may align with the user's preferences based on TF-IDF matrix.
      
-3. **Olympic-Medal-Count-Prediction**
-   - Description: This ML model predicts the medal count for various countries in the Olympic Games using Linear Regression.
-   - Repository: **[Olympic-Medal-Count-Prediction](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)**
+3. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)**
+   - This ML model predicts the medal count for various countries in the Olympic Games using Linear Regression.
      
-4. **Stock-Market-Price-Prediction**
-   - Description: This ML model predicts the price of the S&P500 Stock Market Index using RandomForestClassifier. 
-   - Repository: **[Stock-Market-Price-Prediction](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)**
+4. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)**
+   - This ML model predicts the price of the S&P500 Stock Market Index using RandomForestClassifier. 
      
-5. **Dog-Classification**
-   - Description: This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
-   - Repository: **[Dog-Classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
+5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
+   - This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
      
 ## Connect with Me 🤝
 ###
