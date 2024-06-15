@@ -130,7 +130,7 @@
 
 1. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)**
 
-   - This is a system that records live speech using the microphone and then transcribes using speech recognition.
+   - This is a robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
 
 ### 💠Machine Learning🧠🧑‍💻
  
