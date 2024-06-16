@@ -121,7 +121,7 @@
    - This is an IoT-integrated smart extension cord powered by Atmega328 & ESP8266.
 
 2. **3D Mapper** - **[Repository](https://github.com/LasithaAmarasinghe/3D-Mapper)**
-   - This is a 3D plotting device made for short-range object detection powered by Atemega 2560.
+   - This is a 3D plotting device made for short-range object detection powered by Atmega 2560.
 
 3. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)**
    - This is a wall-following robot made using only analog electronics.
