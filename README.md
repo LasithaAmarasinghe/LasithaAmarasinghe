@@ -118,10 +118,10 @@
 ### 💠Electronics📱
 
 1. **Smarty Plug** -  **[Repository](https://github.com/LasithaAmarasinghe/Smarty-Plug)**
-   - This is an IoT-integrated smart extension cord powered by Atmega328 & ESP8266.
+   - This is an IoT-integrated smart extension cord powered by ATmega328 & ESP8266.
 
 2. **3D Mapper** - **[Repository](https://github.com/LasithaAmarasinghe/3D-Mapper)**
-   - This is a 3D plotting device made for short-range object detection powered by Atmega 2560.
+   - This is a 3D plotting device made for short-range object detection powered by ATmega 2560.
 
 3. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)**
    - This is a wall-following robot made using only analog electronics.
