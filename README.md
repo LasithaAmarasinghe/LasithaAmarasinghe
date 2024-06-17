@@ -148,7 +148,14 @@
      
 5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
    - This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
+
+### 💠Computer Vision👁️
+1. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)**
+   - This project demonstrates a basic face recognition system using Python, OpenCV, and the face recognition library.
      
+2. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)**
+   - This project demonstrates a real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google.
+
 ## Connect with Me 🤝
 ###
 
