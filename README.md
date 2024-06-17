@@ -134,18 +134,18 @@
 
 ### 💠Machine Learning🧠🧑‍💻
  
-1. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)**
-   - This is a system that records live speech using the microphone and then transcribes using speech recognition.
-     
-2. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
+1. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
    - This ML model recommends movies that may align with the user's preferences based on TF-IDF matrix.
      
-3. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)**
+2. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)**
    - This ML model predicts the medal count for various countries in the Olympic Games using Linear Regression.
      
-4. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)**
+3. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)**
    - This ML model predicts the price of the S&P500 Stock Market Index using RandomForestClassifier. 
-     
+
+4. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)**
+   - This is a system that records live speech using the microphone and then transcribes using speech recognition.
+  
 5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)**
    - This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
 
