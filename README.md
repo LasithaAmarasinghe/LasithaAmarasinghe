@@ -156,6 +156,14 @@
 2. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)**
    - This is a real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google.
 
+
+## Module Repositories 📖
+
+1. **EN3150-Pattern-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/EN3150-Pattern-Recognition)**
+2. **EN3160-Image-Processing-&-Computer-Vision** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision)**
+3. **CS2023-Data-Structures-&-Algorithms** - **[Repository](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms)**
+4. **EN2031-Computer-Organization-and-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
+
 ## Connect with Me 🤝
 ###
 
@@ -177,6 +185,11 @@
  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  /> -->
  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  /> -->
 </div>
+
+
+
+
+
 
 ## GitHub Stats 📊
 ###
