@@ -101,8 +101,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="40" alt="ie10 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />  -->
+  
 </div>
 
 ###
@@ -162,7 +161,7 @@
 1. **EN3150-Pattern-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/EN3150-Pattern-Recognition)**
 2. **EN3160-Image-Processing-&-Computer-Vision** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision)**
 3. **CS2023-Data-Structures-&-Algorithms** - **[Repository](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms)**
-4. **EN2031-Computer-Organization-and-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
+4. **EN2031-Computer-Organization-&-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
 
 ## Connect with Me 🤝
 ###
