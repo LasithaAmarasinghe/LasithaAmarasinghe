@@ -155,6 +155,7 @@
 3. **EN3251-Internet-of-Things** - **[Repository](https://github.com/LasithaAmarasinghe/EN3251-Internet-of-Things)**
 4. **CS2023-Data-Structures-&-Algorithms** - **[Repository](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms)**
 5. **EN2031-Computer-Organization-&-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
+6. **EN2150-Communication-Network-Engineering** - **[Repository](https://github.com/LasithaAmarasinghe/EN2150-Communication-Network-Engineering)**
 
 ## Connect with Me 🤝
 ###
