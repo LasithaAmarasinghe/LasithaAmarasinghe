@@ -141,10 +141,13 @@
    - This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
 
 ### 💠Computer Vision👁️
-1. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)**
+1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)**
+   - This is based on 'Practical Global Optimization for Multiview Geometry' research paper 
+   
+2. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)**
    - This is a basic face recognition system using Python, OpenCV, and the face recognition library.
      
-2. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)**
+3. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)**
    - This is a real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google.
 
 
