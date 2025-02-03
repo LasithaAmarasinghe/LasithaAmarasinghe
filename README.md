@@ -116,6 +116,9 @@
 
 3. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)**
    - This is a wall-following robot made using only analog electronics.
+     
+4. **Multi-Room-Sound-System** - **[Repository](https://github.com/Multi-Room-Sound-System-AURA)**
+   - This is an IoT-integrated smart sound system powered by ESP32-S3-WROOM-1.    
    
 ### 💠Robotics🤖
 
