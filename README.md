@@ -126,7 +126,7 @@
 
    - This is a robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
 
-### 💠Machine Learning🧠🧑‍💻
+### 💠Machine Learning🧠
  
 1. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)**
    - This ML model recommends movies that may align with the user's preferences based on TF-IDF matrix.
@@ -153,6 +153,9 @@
 3. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)**
    - This is a real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google.
 
+### 💠Software🧑‍💻
+1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)**
+   - This is a fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
 
 ## Module Repositories 📖
 
