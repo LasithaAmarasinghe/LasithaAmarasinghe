@@ -157,6 +157,9 @@
 1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)**
    - This is a fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
 
+2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)**
+   - This is restaurant website built with HTML, CSS, JavaScript and Flask.
+     
 ## Module Repositories 📖
 
 1. **EN3150-Pattern-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/EN3150-Pattern-Recognition)**
