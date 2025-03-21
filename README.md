@@ -113,9 +113,7 @@
    
 ### 💠Robotics🤖
 
-1. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)**
-
-   - This is a robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
+1. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)** - A robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
 
 ### 💠Machine Learning🧠
  
