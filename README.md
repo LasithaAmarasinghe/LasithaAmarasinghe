@@ -152,11 +152,8 @@
    - This is a real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google.
 
 ### 💠Software🧑‍💻
-1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)**
-   - This is a fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
-
-2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)**
-   - This is restaurant website built with HTML, CSS, JavaScript and Flask.
+1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
+2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask.
      
 ## Module Repositories 📖
 
