@@ -120,7 +120,7 @@
 1. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies that align with the user's preferences based on TF-IDF matrix.  
 2. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting the medal counts in Olympic Games using Linear Regression.   
 3. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting the price of the S&P500 Stock Market Index using RandomForestClassifier. 
-4. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using speech recognition.
+4. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
 5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - An end-to-end deep learning project using Tensorflow and Keras for dog classification.
 
 ### 💠Computer Vision👁️
