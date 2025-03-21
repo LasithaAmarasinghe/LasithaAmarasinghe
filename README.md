@@ -17,7 +17,7 @@
 
  🔭 I’m currently learning **Machine Learning, Deep Learning & Data Science**.</br>
 
- 👯 I’m looking to collaborate on **Machine Learning & Data Science** projects.</br>
+ 👯 I’m looking to collaborate on **Machine Learning, Deep Learning & Data Science** projects.</br>
 
  ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.😁🚿🎶**</br>
 
@@ -142,14 +142,9 @@
    - This is an end-to-end deep learning project using Tensorflow and Keras for dog classification.
 
 ### 💠Computer Vision👁️
-1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)**
-   - This is based on 'Practical Global Optimization for Multiview Geometry' research paper 
-   
-2. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)**
-   - This is a basic face recognition system using Python, OpenCV, and the face recognition library.
-     
-3. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)**
-   - This is a real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google.
+1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - This is based on 'Practical Global Optimization for Multiview Geometry' research paper 
+2. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini AI by Google. 
+3. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the face recognition library. 
 
 ### 💠Software🧑‍💻
 1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
