@@ -112,7 +112,7 @@
 4. **Smarty Plug** -  **[Repository](https://github.com/LasithaAmarasinghe/Smarty-Plug)** - An IoT-integrated smart extension cord powered by ATmega328 & ESP8266.
 5. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)** - A robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
 
-### 💠Machine Learning🧠
+### 💠Machine Learning & AI🧠
  
 1. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.  
 2. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
@@ -124,7 +124,7 @@
 
 
 ### 💠Computer Vision👁️
-1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on 'Practical Global Optimization for Multiview Geometry' research paper 
+1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
 2. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
 3. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
 
