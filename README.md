@@ -104,7 +104,7 @@
 
 ##  Projects⚙️🧑‍💻
 
-### 💠Electronics,IoT,Robotics📱🤖
+### 💠Electronics, IoT, Robotics📱🤖
 
 1. **3D Mapper** - **[Repository](https://github.com/LasithaAmarasinghe/3D-Mapper)** - A 3D plotting device made for short-range object detection powered by ATmega 2560.
 2. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)** - A wall-following robot made using only analog electronics.   
@@ -119,6 +119,9 @@
 3. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting the change of S&P500 Stock Market Index using RandomForestClassifier. 
 4. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
 5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - An end-to-end deep learning project using Tensorflow and Keras for dog classification.
+6. **Gender-&-Age-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predict age and gender using deep neural networks.
+7. **IPL-Score-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting score in IPL matches based on vanue and teams using neural networks.
+
 
 ### 💠Computer Vision👁️
 1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - This is based on 'Practical Global Optimization for Multiview Geometry' research paper 
