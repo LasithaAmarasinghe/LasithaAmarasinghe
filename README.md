@@ -104,16 +104,13 @@
 
 ##  Projects⚙️🧑‍💻
 
-### 💠Electronics📱
+### 💠Electronics,IoT,Robotics📱🤖
 
 1. **3D Mapper** - **[Repository](https://github.com/LasithaAmarasinghe/3D-Mapper)** - A 3D plotting device made for short-range object detection powered by ATmega 2560.
 2. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)** - A wall-following robot made using only analog electronics.   
 3. **Multi-Room-Sound-System** - **[Repository](https://github.com/Multi-Room-Sound-System-AURA)** - An IoT-integrated smart sound system powered by ESP32-S3-WROOM-1.
 4. **Smarty Plug** -  **[Repository](https://github.com/LasithaAmarasinghe/Smarty-Plug)** - An IoT-integrated smart extension cord powered by ATmega328 & ESP8266.
-   
-### 💠Robotics🤖
-
-1. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)** - A robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
+5. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)** - A robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
 
 ### 💠Machine Learning🧠
  
