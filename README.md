@@ -106,7 +106,7 @@
 
 ### 💠Electronics, IoT, Robotics📱🤖
 
-1. **3D Mapper** - **[Repository](https://github.com/LasithaAmarasinghe/3D-Mapper)** - A 3D plotting device made for short-range object detection powered by ATmega 2560.
+1. **3D Mapper** - **[Repository](https://github.com/LasithaAmarasinghe/3D-Mapper)** - A 3D plotting device for short-range object detection powered by ATmega 2560.
 2. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)** - A wall-following robot made using only analog electronics.   
 3. **Multi-Room-Sound-System** - **[Repository](https://github.com/Multi-Room-Sound-System-AURA)** - An IoT-integrated smart sound system powered by ESP32-S3-WROOM-1.
 4. **Smarty Plug** -  **[Repository](https://github.com/LasithaAmarasinghe/Smarty-Plug)** - An IoT-integrated smart extension cord powered by ATmega328 & ESP8266.
@@ -114,23 +114,23 @@
 
 ### 💠Machine Learning🧠
  
-1. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies that align with the user's preferences based on TF-IDF matrix.  
-2. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting the medal counts in Olympic Games using Linear Regression.   
-3. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting the change of S&P500 Stock Market Index using RandomForestClassifier. 
+1. **Movie-Recommender-System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.  
+2. **Olympic-Medal-Count-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
+3. **Stock-Market-Price-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
 4. **Real-Time-Speech-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
-5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - An end-to-end deep learning project using Tensorflow and Keras for dog classification.
-6. **Gender-&-Age-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predict age and gender using deep neural networks.
-7. **IPL-Score-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting score in IPL matches based on vanue and teams using neural networks.
+5. **Dog-Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
+6. **Gender-&-Age-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
+7. **IPL-Score-Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on vanue and teams using neural networks.
 
 
 ### 💠Computer Vision👁️
-1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - This is based on 'Practical Global Optimization for Multiview Geometry' research paper 
+1. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on 'Practical Global Optimization for Multiview Geometry' research paper 
 2. **Hand-Gesture-Math-Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
-3. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the face recognition library. 
+3. **Face-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
 
-### 💠Software🧑‍💻
-1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
-2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask.
+### 💠Web & Software Development🧑‍💻
+1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
+2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
      
 ## Module Repositories 📖
 
