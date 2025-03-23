@@ -118,7 +118,7 @@
 4. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
 5. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
 6. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
-7. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on vanue and teams using neural networks.
+7. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
 
 
 ### 💠Computer Vision👁️
