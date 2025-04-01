@@ -122,6 +122,7 @@
 8. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
 9. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
 10. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
+11. **YouTube Comment Analysis**- **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** -
 
 ### 💠Web & Software Development🧑‍💻
 1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
