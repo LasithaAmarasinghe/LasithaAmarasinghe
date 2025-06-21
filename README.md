@@ -125,6 +125,7 @@
 ### 💠Web & Software Development🧑‍💻
 1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
 2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
+3. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
      
 ## Module Repositories 📖
 
