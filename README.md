@@ -110,23 +110,24 @@
 
 ### 💠Machine Learning, Deep Learning, AI🧠
  
-1. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.  
-2. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
-3. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
-4. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
-5. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
-6. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
-7. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
-8. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
-9. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
-10. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
-11. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
-12. **AgroChill Time Series Forecasting System** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A system forecasting weekly prices of fruits and vegetables.
-13. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
+1. **IEEE-VIP-Cup-2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection ,Tracking and Payload Identification
+2. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
+3. **AgroChill Time Series Forecasting System** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A system forecasting weekly prices of fruits and vegetables.
+4. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
+5. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
+6. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
+7. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
+8. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
+9. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
+10. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
+11. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
+12. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
+13. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
+14. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.  
 
 
 ### 💠Web & Software Development🧑‍💻
-1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React and Java SpringBoot.
+1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React,Java SpringBoot.
 2. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
 3. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
 4. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
