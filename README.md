@@ -110,7 +110,7 @@
 
 ### 💠Machine Learning, Deep Learning, AI🧠
  
-1. **IEEE-VIP-Cup-2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection ,Tracking and Payload Identification
+1. **IEEE-VIP-Cup-2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
 2. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
 3. **AgroChill Time Series Forecasting System** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A system forecasting weekly prices of fruits and vegetables.
 4. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
@@ -123,7 +123,9 @@
 11. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
 12. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
 13. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
-14. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.  
+14. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.
+15. **Potato Disease Identification** - **[Repository](https://github.com/LasithaAmarasinghe/Fertilizer-App)** - Identifying common potato leaf diseases using deep neural networks.
+
 
 
 ### 💠Web & Software Development🧑‍💻
