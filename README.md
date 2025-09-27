@@ -138,9 +138,10 @@
 1. **EN3150-Pattern-Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/EN3150-Pattern-Recognition)**
 2. **EN3160-Image-Processing-&-Computer-Vision** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision)**
 3. **EN3251-Internet-of-Things** - **[Repository](https://github.com/LasithaAmarasinghe/EN3251-Internet-of-Things)**
-4. **CS2023-Data-Structures-&-Algorithms** - **[Repository](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms)**
-5. **EN2031-Computer-Organization-&-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
-6. **EN2150-Communication-Network-Engineering** - **[Repository](https://github.com/LasithaAmarasinghe/EN2150-Communication-Network-Engineering)**
+4. **MA4144-Neural-Networks-&-Fuzzy-Logic** - **[Repository](https://github.com/LasithaAmarasinghe/MA4144-Neural-Networks-and-Fuzzy-Logic)**
+5. **CS2023-Data-Structures-&-Algorithms** - **[Repository](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms)**
+6. **EN2031-Computer-Organization-&-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
+7. **EN2150-Communication-Network-Engineering** - **[Repository](https://github.com/LasithaAmarasinghe/EN2150-Communication-Network-Engineering)**
 
 ## Connect with Me 🤝
 ###
