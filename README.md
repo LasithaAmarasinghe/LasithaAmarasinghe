@@ -144,6 +144,7 @@
 5. **CS2023-Data-Structures-&-Algorithms** - **[Repository](https://github.com/LasithaAmarasinghe/CS-2023-Data-Structures-Algorithms)**
 6. **EN2031-Computer-Organization-&-Design** - **[Repository](https://github.com/LasithaAmarasinghe/EN2031-Computer-Organization-and-Design)**
 7. **EN2150-Communication-Network-Engineering** - **[Repository](https://github.com/LasithaAmarasinghe/EN2150-Communication-Network-Engineering)**
+8. **EN4384-Wireless-and-Mobile-Communications** - **[Repository](https://github.com/LasithaAmarasinghe/EN4384--Wireless-and-Mobile-Communications)**
 
 ## Connect with Me 🤝
 ###
