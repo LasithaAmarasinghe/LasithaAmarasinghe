@@ -126,14 +126,13 @@
 14. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.
 15. **Potato Disease Identification** - **[Repository](https://github.com/LasithaAmarasinghe/Fertilizer-App)** - Identifying common potato leaf diseases using deep neural networks.
 
-
-
 ### 💠Web & Software Development🧑‍💻
 1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React,Java SpringBoot.
 2. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  A VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
 3. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
 4. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
 5. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
+6. **StudyMate** - **[Repository](https://github.com/LasithaAmarasinghe/StudyMate)** - A web application that serves as a comprehensive academic progress tracker for students. 
      
 ## Module Repositories 📖
 
