@@ -132,7 +132,10 @@
 3. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
 4. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
 5. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
-6. **StudyMate** - **[Repository](https://github.com/LasithaAmarasinghe/StudyMate)** - A web application that serves as a comprehensive academic progress tracker for students. 
+6. **StudyMate** - **[Repository](https://github.com/LasithaAmarasinghe/StudyMate)** - A web application that serves as a comprehensive academic progress tracker for students.
+7. **Disaster Response Bot** - **[Repository](https://github.com/LasithaAmarasinghe/Disaster-Response-WhatsApp-Bot)** - WhatsApp monitoring and disaster response management system made for 2025 crisis.
+8. **Flood Relief Crisis Map** - **[Repository](https://github.com/LasithaAmarasinghe/Sri-Lanka-Flood-Relief)** - Real time interactive map showing flood relief requests and volunteer contributions. 
+
      
 ## Module Repositories 📖
 
