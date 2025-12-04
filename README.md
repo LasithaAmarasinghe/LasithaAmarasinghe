@@ -164,32 +164,20 @@
   <a href="https://medium.com/@amarasinghelra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="55" height="40" alt="medium logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="40" alt="discord logo"  />
- <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  /> -->
- <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="whatsapp logo"  /> -->
 </div>
-
-
-
-
-
 
 ## GitHub Stats 📊
 ###
-<!--
-<div>
+
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasithaamarasinghe&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact /> //top languages
-</div>
--->
+</div> -->
+
 ###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LasithaAmarasinghe&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=false&private_count=true" alt="LasithaAmarasinghe" style="width: 500px; height: 250px; margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasithaamarasinghe&theme=chartreuse-dark&hide_border=true" /> 
 </p>
-
-  
-
 
 
