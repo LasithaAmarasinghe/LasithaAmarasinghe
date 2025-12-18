@@ -114,7 +114,7 @@
 2. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
 3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
 4. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
-5. **Improvement for ConvNext** - **[Repository](https://github.com/linukaratnayake/ConvNeXt-Improved)** - Introduction of Multi-Scale Depthwise Convolution for improved accuracy.
+5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Introduction of Multi-Scale Depthwise Convolution for improved accuracy.
 6. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
 7. **Freezer Gambit** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A time series forecasting system forecasting weekly prices of fruits and vegetables.
 8. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
