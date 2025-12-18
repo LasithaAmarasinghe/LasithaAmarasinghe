@@ -115,7 +115,7 @@
 3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
 4. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
 5. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
-6. **AgroChill Time Series Forecasting System** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A system forecasting weekly prices of fruits and vegetables.
+6. **Freezer Gambit** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A time series forecasting system forecasting weekly prices of fruits and vegetables.
 7. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
 8. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
 9. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
