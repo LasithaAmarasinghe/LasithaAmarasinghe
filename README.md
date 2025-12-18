@@ -110,23 +110,24 @@
 
 ### 💠Machine Learning, Deep Learning, AI🧠
  
-1. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
-2. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
-3. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
-4. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
-5. **AgroChill Time Series Forecasting System** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A system forecasting weekly prices of fruits and vegetables.
-6. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
-7. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
-8. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
-9. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
-10. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
-11. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
-12. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
-13. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
-14. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
-15. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
-16. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.
-17. **Potato Disease Identification** - **[Repository](https://github.com/LasithaAmarasinghe/Fertilizer-App)** - Identifying common potato leaf diseases using deep neural networks.
+1. **NeoCare** - **[Repository](https://github.com/NeoCare-ENTC)** - A non-invasive neonatal health monitoring system, utilizing remote photoplethysmography.
+2. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
+3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
+4. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
+5. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
+6. **AgroChill Time Series Forecasting System** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A system forecasting weekly prices of fruits and vegetables.
+7. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
+8. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
+9. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
+10. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
+11. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
+12. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
+13. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
+14. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
+15. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
+16. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
+17. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.
+18. **Potato Disease Identification** - **[Repository](https://github.com/LasithaAmarasinghe/Fertilizer-App)** - Identifying common potato leaf diseases using deep neural networks.
 
 ### 💠Web & Software Development🧑‍💻
 1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React,Java SpringBoot.
