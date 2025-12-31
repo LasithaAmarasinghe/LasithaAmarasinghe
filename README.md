@@ -76,7 +76,7 @@
 ### 💠Deep Learning, Gen AI🧠
  
 1. **NeoCare** - **[Repository](https://github.com/NeoCare-ENTC)** - Contactless neonatal health monitoring system, utilizing remote photoplethysmography.
-2. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
+2. **UAV Surveillance** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
 3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - Autonomous financial multi-agent system for Colombo Stock Exchange.
 4. **Hybrid RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - Hybrid RAG agent with dynamic web search and verification.
 5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Optimized architecture using Multi-Scale Depthwise Convolution modules.
