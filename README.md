@@ -15,7 +15,7 @@
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
 
- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Gen AI & Data Science** projects.</br>
+ 📖 Passionate about **Computer Vision and Deep Learning**. Currently building AI agents & exploring **Generative AI** architectures..</br>
 
  ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.😁🚿🎶**</br>
 
