@@ -75,16 +75,16 @@
 
 ### 💠Deep Learning, Gen AI🧠
  
-1. **NeoCare** - **[Repository](https://github.com/NeoCare-ENTC)** - A non-invasive neonatal health monitoring system, utilizing remote photoplethysmography.
+1. **NeoCare** - **[Repository](https://github.com/NeoCare-ENTC)** - Contactless neonatal health monitoring system, utilizing remote photoplethysmography.
 2. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
-3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
-4. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
-5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Introduction of Multi-Scale Depthwise Convolution for improved accuracy.
+3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - Autonomous financial multi-agent system for Colombo Stock Exchange.
+4. **Hybrid RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - Hybrid RAG agent with dynamic web search and verification.
+5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Optimized architecture using Multi-Scale Depthwise Convolution modules.
 
 ### 💠Web & Software Development🧑‍💻
-1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React,Java SpringBoot.
-2. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
-3. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  A VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
+1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  Web-based transformer managemnet system with autonomous fault detection.
+2. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - High-performance C++ trading engine with low-latency limit order book.
+3. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
 
 ### 💠Electronics, IoT, Robotics📱🤖
 
