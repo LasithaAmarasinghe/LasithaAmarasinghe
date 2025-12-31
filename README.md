@@ -15,9 +15,7 @@
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
 
- 🔭 I’m currently learning **Machine Learning, Deep Learning & Data Science**.</br>
-
- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning & Data Science** projects.</br>
+ 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Gen AI & Data Science** projects.</br>
 
  ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.😁🚿🎶**</br>
 
