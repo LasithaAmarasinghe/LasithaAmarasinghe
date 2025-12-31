@@ -15,7 +15,11 @@
 <!-- ![Profile Stats](https://komarev.com/ghpvc/?username=geekyprawins&color=green)
  -->
 
- 📖 Passionate about **Computer Vision and Deep Learning**. Currently building AI agents & exploring **Generative AI** architectures..</br>
+ 🔭 Passionate about **Computer Vision & Deep Learning**.</br>
+ 
+ 🤖 Currently building **Agentic AI** systems & exploring **Generative AI** architectures.</br>
+ 
+ 🏛️ Former Research Intern at **National University of Singapore (NUS)**.</br>
 
  ⚡ Fun fact: **I have a deep passion for music, but my singing voice is so uniquely 'mine' that even my showerhead begs for earplugs.😁🚿🎶**</br>
 
