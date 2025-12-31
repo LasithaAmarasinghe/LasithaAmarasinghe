@@ -71,8 +71,20 @@
 
 ###
 
-
 ##  Projects⚙️🧑‍💻
+
+### 💠Deep Learning, Gen AI🧠
+ 
+1. **NeoCare** - **[Repository](https://github.com/NeoCare-ENTC)** - A non-invasive neonatal health monitoring system, utilizing remote photoplethysmography.
+2. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
+3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
+4. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
+5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Introduction of Multi-Scale Depthwise Convolution for improved accuracy.
+
+### 💠Web & Software Development🧑‍💻
+1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React,Java SpringBoot.
+2. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
+3. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  A VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
 
 ### 💠Electronics, IoT, Robotics📱🤖
 
@@ -80,40 +92,35 @@
 2. **Analog Wall Following Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot)** - A wall-following robot made using only analog electronics.   
 3. **Multi Room Sound System** - **[Repository](https://github.com/Multi-Room-Sound-System-AURA)** - An IoT-integrated smart sound system powered by ESP32.
 4. **Smarty Plug** -  **[Repository](https://github.com/LasithaAmarasinghe/Smarty-Plug)** - An IoT-integrated smart extension cord powered by ATmega328 & ESP8266.
-5. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)** - A robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.
+5. **Agni Robot** - **[Repository](https://github.com/LasithaAmarasinghe/Agni-Robot)** - A robot powered by Arduino Mega 2560, capable of doing various tasks in robotics competitions.   
 
-### 💠Machine Learning, Deep Learning, AI🧠
- 
-1. **NeoCare** - **[Repository](https://github.com/NeoCare-ENTC)** - A non-invasive neonatal health monitoring system, utilizing remote photoplethysmography.
-2. **IEEE VIP Cup 2025** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
-3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - An autonomous AI agent that performs real-time analysis of Colombo Stock Exchange.
-4. **Verifiable RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - A RAG assistant for document analysis with source verification.
-5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Introduction of Multi-Scale Depthwise Convolution for improved accuracy.
-6. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
-7. **Freezer Gambit** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A time series forecasting system forecasting weekly prices of fruits and vegetables.
-8. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
-9. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
-10. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
-11. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
-12. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
-13. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
-14. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper. 
-15. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
-16. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
-17. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
-18. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.
-19. **Potato Disease Identification** - **[Repository](https://github.com/LasithaAmarasinghe/Fertilizer-App)** - Identifying common potato leaf diseases using deep neural networks.
+### 📂 More Projects & Experiments
+<details>
+  <summary>Click to view more projects</summary>
+         
+  ### 💠Machine Learning, Deep Learning🧠
+1. **Agent Performance Analyser** - **[Repository](https://github.com/LasithaAmarasinghe/Agent-Performance-Analysis-Data-Storm)** - A system that analyzes and predicts insurance agent performance.
+2. **Freezer Gambit** - **[Repository](https://github.com/LasithaAmarasinghe/Freezer-Gambit-Data-Crunch)** - A time series forecasting system forecasting weekly prices of fruits and vegetables.
+3. **Multiview Triangulation** - **[Repository](https://github.com/LasithaAmarasinghe/EN3160-Image-Processing-Computer-Vision/tree/main/Project)** - Based on *Practical Global Optimization for Multiview Geometry* research paper.
+4. **Olympic Medal Count Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Olympic-Medal-Count-Prediction)** - Predicting medal counts in Olympic Games using Linear Regression.   
+5. **Stock Market Price Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Stock-Market-Price-Prediction)** - Predicting S&P500 Stock Market Index movements using RandomForestClassifier. 
+6. **Real Time Speech Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Real-Time-Speech-Recognition)** - Recording live speech using the microphone and transcribing using the speech.
+7. **Dog Classification** - **[Repository](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow)** - Classifying dog breeds using deep learning with TensorFlow and Keras.
+8. **Gender & Age Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/Gender-and-age-prediction)** - Detecting faces in images and predicting age and gender using deep neural networks.
+9. **IPL Score Prediction** - **[Repository](https://github.com/LasithaAmarasinghe/IPL-Score-Prediction)** - Predicting IPL scores based on venue and competing teams using neural networks.
+10. **Movie Recommender System** - **[Repository](https://github.com/LasithaAmarasinghe/Movie-Recommender-System)** - Recommending movies based on user preferences using a TF-IDF matrix.
+11. **Potato Disease Identification** - **[Repository](https://github.com/LasithaAmarasinghe/Fertilizer-App)** - Identifying common potato leaf diseases using deep neural networks.
+12. **Hand Gesture Math Solver** - **[Repository](https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver)** - A real-time hand gesture recognition system using Python, OpenCV, and Gemini. 
+13. **Face Recognition** - **[Repository](https://github.com/LasithaAmarasinghe/Face-Recognition)** - A basic face recognition system using Python, OpenCV, and the Face Recognition library.
+14. **YouTube Comment Analysis** - **[Repository](https://github.com/LasithaAmarasinghe/YouTube-Comment-Analysis)** - A sentimental analysis of YouTube comments and classifying them.
 
-### 💠Web & Software Development🧑‍💻
-1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  A web-based system for managing transformers built using React,Java SpringBoot.
-2. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  A VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
-3. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
-4. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
-5. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - An object-oriented C++ application that simulates a trading platform for flowers.
-6. **StudyMate** - **[Repository](https://github.com/LasithaAmarasinghe/StudyMate)** - A web application that serves as a comprehensive academic progress tracker for students.
-7. **Disaster Response Bot** - **[Repository](https://github.com/LasithaAmarasinghe/Disaster-Response-WhatsApp-Bot)** - WhatsApp monitoring and disaster response management system made for 2025 crisis.
-8. **Flood Relief Crisis Map** - **[Repository](https://github.com/LasithaAmarasinghe/Sri-Lanka-Flood-Relief)** - Real time interactive map showing flood relief requests and volunteer contributions. 
-
+  ### 💠Web & Software Development🧑‍💻
+1. **Workout Buddy** - **[Repository](https://github.com/LasithaAmarasinghe/Workout-Buddy)** - A comprehensive fitness tracking app built with the MERN (MongoDB, Express, React, Node.js) stack.
+2. **Foody** - **[Repository](https://github.com/LasithaAmarasinghe/Foody)** - A restaurant website built with HTML, CSS, JavaScript and Flask for an enhanced dining experience.
+3. **StudyMate** - **[Repository](https://github.com/LasithaAmarasinghe/StudyMate)** - A web application that serves as a comprehensive academic progress tracker for students.
+4. **Disaster Response Bot** - **[Repository](https://github.com/LasithaAmarasinghe/Disaster-Response-WhatsApp-Bot)** - WhatsApp monitoring and disaster response management system made for 2025 crisis.
+5. **Flood Relief Crisis Map** - **[Repository](https://github.com/LasithaAmarasinghe/Sri-Lanka-Flood-Relief)** - Real time interactive map showing flood relief requests and volunteer contributions.
+</details>
      
 ## Module Repositories 📖
 
