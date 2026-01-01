@@ -73,7 +73,8 @@
 2. **UAV Surveillance** - **[Repository](https://github.com/LasithaAmarasinghe/IEEE-VIP-Cup-2025-Multimodal-UAV-Detection-Tracking-and-Payload-Identification)** - Multimodal UAV Detection, Tracking and Payload Identification System.
 3. **CSE Smart Scout** - **[Repository](https://github.com/LasithaAmarasinghe/CSE-Smart-Scout)** - Autonomous financial multi-agent system for Colombo Stock Exchange.
 4. **Hybrid RAG Assistant** - **[Repository](https://github.com/LasithaAmarasinghe/Verifiable-RAG-Assistant)** - Hybrid RAG agent with dynamic web search and verification.
-5. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Optimized architecture using Multi-Scale Depthwise Convolution modules.
+5. **TeaLeaf Lens** - **[Repository](https://github.com/LasithaAmarasinghe/Tea-Leaf-Lens)** - Computer vision system designed to automate tea manufacturing quality control.
+6. **Improvement for ConvNext** - **[Repository](https://github.com/LasithaAmarasinghe/ConvNeXt-Improved)** - Optimized architecture using Multi-Scale Depthwise Convolution modules.
 
 ### 💠Web & Software Development🧑‍💻
 1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  Web-based transformer managemnet system with autonomous fault detection.
