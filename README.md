@@ -79,7 +79,8 @@
 ### 💠Web & Software Development🧑‍💻
 1. **Transformer Management System** - **[Repository](https://github.com/Web-Wizards-ENTC/Transformer)** -  Web-based transformer managemnet system with autonomous fault detection.
 2. **Flower Exchange** - **[Repository](https://github.com/LasithaAmarasinghe/Flower-Exchange)** - High-performance C++ trading engine with low-latency limit order book.
-3. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
+3. **TicketBlitz** - **[Repository](https://github.com/LasithaAmarasinghe/TicketBlitz)** - High-Concurrency Go(Golang) Reservation Engine for ticket reservation.
+4. **ACTURA** - **[Repository](https://github.com/LasithaAmarasinghe/ACTURA)** -  VR application developed to help users conquer public speaking fear by practicing on a virtual stage.
 
 ### 💠Electronics, IoT, Robotics📱🤖
 
